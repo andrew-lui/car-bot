@@ -1,4 +1,4 @@
-# car-bot/Vision/vehicle detection
+vehicle detection
 
 cars.xml (classifier) and cars.mp4 (video) are from ratansingh98.
 
